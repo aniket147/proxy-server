@@ -1,10 +1,8 @@
-# Assignment 2 - Proxy Server
+# Proxy Server
 An HTTP proxy server implemented via python socket programming with caching
 
-## Authors
-1. Himansh Sheoran - 20161211
-2. Lovish Narang - 20161158
-
+## Author
+Aniket Bansal
 
 ## Description
 - `proxy.py` is the main proxy file
